@@ -45,3 +45,24 @@ p {
     margin: 0 auto;
     padding: 20px;
 }
+
+/* HEADER */
+
+.header {
+    width: 100%;
+    font-size: 14px;
+    font-weight: 900;
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    padding: 20px 0;
+}
+
+.header li {
+    display: inline-block;
+    padding: 10px;
+}
+
+.header a {
+    color: #4a4a4a;
+}
