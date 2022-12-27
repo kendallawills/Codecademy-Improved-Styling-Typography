@@ -93,3 +93,52 @@ p {
     color: #717171;
     padding-bottom: 40px;
 }
+
+/* FONT CARD */
+
+.font-card {
+    background-color: #ffffff;
+    text-align: center;
+    padding: 10px 0 40px 0;
+}
+
+.font-card .creator {
+    font-size: 16px;
+    font-style: italic;
+    padding: 10px 20px;
+}
+
+.sample {
+    display: inline-block;
+    padding: 5px 40px;
+}
+
+.sample .text {
+    font-size: 100px;
+    color: #4d00ff;
+}
+
+.garamond {
+    font-family: Garamond;
+}
+
+.helvetica {
+    font-family: Helvetica;
+}
+
+.space {
+    font-family: "Space Mono", monospace;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+.regular {
+    font-weight: normal;
+}
+
+.italic {
+    font-weight: normal;
+    font-style: italic;
+}
