@@ -66,3 +66,22 @@ p {
 .header a {
     color: #4a4a4a;
 }
+
+/* BANNER */
+
+.banner {
+    background-color: #4d00ff;
+    margin-top: 74px;
+    padding: 40px 0 100px 0;
+}
+
+.banner p {
+    font-family: "GlegooBanner";
+    font-size: 20px;
+    font-weight: lighter;
+    color: #ffffff;
+    line-height: 1.4;
+    word-spacing: 0.25em;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
